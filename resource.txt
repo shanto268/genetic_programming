@@ -1,1 +1,5 @@
-resource: https://lethain.com/genetic-algorithms-cool-name-damn-simple/
+resources: 
+
+
+https://lethain.com/genetic-programming-a-novel-failure/
+https://lethain.com/genetic-algorithms-cool-name-damn-simple/
