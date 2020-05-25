@@ -1,0 +1,1 @@
+resource: https://lethain.com/genetic-algorithms-cool-name-damn-simple/
